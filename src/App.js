@@ -8,8 +8,8 @@ import Table from "./Table";
 function App() {
   return (
     <div>
-      <Header />;
-      <Table />;
+      <Header />
+      <Table />
     </div>
   );
 }
