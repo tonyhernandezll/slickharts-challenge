@@ -26,6 +26,7 @@ export default class Table extends Component {
         <Range onAfterChange={this.handleChange} defaultValue={this.state.rangeValues} min={1970} max={2018} />
         <br></br>
         <br></br>
+        <h5>S&P 500 Total Returns by Year</h5>
         <div className>
           <table className="table table-hover">
             <thead>
